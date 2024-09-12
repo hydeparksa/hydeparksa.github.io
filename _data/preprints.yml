@@ -1,0 +1,11 @@
+- title: "Title of First Paper"
+  authors: "Author1, Author2"
+  journal: "Journal Name"
+  year: 2020
+  url: "https://linktopaper.com"
+
+- title: "Title of Second Paper"
+  authors: "Author1, Author2"
+  journal: "Another Journal"
+  year: 2021
+  url: "https://linktoanotherpaper.com"
