@@ -66,9 +66,9 @@
 
 - title: "ℓ²-Betti number of discrete and non-discrete groups" 
   authors: "Roman Sauer" 
-  journal: "New directions in locally compact groups" 
+  journal: "London Math. Soc. Lecture Note Ser., 447 (Book chapter)" 
   year: 2018 
-  url: ""
+  url: "https://www.cambridge.org/de/universitypress/subjects/mathematics/algebra/new-directions-locally-compact-groups?format=PB&isbn=9781108413121"
 
 - title: ℓ²-Betti numbers of totally disconnected groups and their approximation by Betti numbers of lattices" 
   authors: "Henrik Densing Petersen, Roman Sauer, Andreas Thom" 
@@ -136,3 +136,87 @@
   year: 2013 
   url: "https://doi.org/10.1007/s00222-012-0445-9"
 
+- title: "Efficient subdivision in hyperbolic groups and applications"
+  authors: "Uri Bader, Alex Furman, Roman Sauer"
+  journal: "Groups Geom. Dyn."
+  year: 2013
+  url: "https://doi.org/10.4171/GGD/182"
+
+- title: "Spectral distribution and ℓ²-isoperimetric profile of Laplace operators on groups"
+  authors: "Alexander Bendikov, Christophe Pittet, Roman Sauer"
+  journal: "Math. Ann."
+  year: 2012
+  url: "https://doi.org/10.1007/s00208-011-0724-6"
+
+- title: "Euler characteristics of categories and homotopy colimits"
+  authors: "Fiore, Thomas M., Wolfgang Lück, Roman Sauer"
+  journal: "Doc. Math."
+  year: 2011
+  url: "https://www.emis.de///journals/DMJDMV/vol-16/09.html"
+
+- title: "Finiteness obstructions and Euler characteristics of categories"
+  authors: "Thomas M. Fiore, Wolfgang Lück, Roman Sauer"
+  journal: "Adv. Math."
+  year: 2011
+  url: "https://doi.org/10.1016/j.aim.2010.09.013"
+
+- title: "The limit of F_p-Betti numbers of a tower of finite covers with amenable fundamental groups"
+  authors: "Peter Linnell, Wolfgang Lück, Roman Sauer"
+  journal: "Proc. Amer. Math. Soc."
+  year: 2011
+  url: "https://doi.org/10.1090/S0002-9939-2010-10689-5"
+
+- title: "ℓ²-torsion, the measure-theoretic determinant conjecture, and uniform measure equivalence"
+  authors: "Wolfgang Lück, Roman Sauer, Christian Wegner"
+  journal: "J. Topol. Anal."
+  year: 2010
+  url: "https://doi.org/10.1142/S179352531000032X"
+
+- title: "A spectral sequence to compute ℓ²-Betti numbers of groups and groupoids"
+  authors: "Roman Sauer, Andreas Thom"
+  journal: "J. Lond. Math. Soc. (2)"
+  year: 2010
+  url: "https://doi.org/10.1112/jlms/jdq017"
+
+- title: "Amenable covers, volume and ℓ²-Betti numbers of aspherical manifolds"
+  authors: "Roman Sauer"
+  journal: "J. Reine Angew. Math."
+  year: 2009
+  url: "https://doi.org/10.1515/CRELLE.2009.082"
+
+- title: "Simplicial volume of Hilbert modular varieties"
+  authors: "Clara Löh, Roman Sauer"
+  journal: "Comment. Math. Helv."
+  year: 2009
+  url: "https://doi.org/10.4171/CMH/169"
+
+- title: "Degree theorems and Lipschitz simplicial volume for nonpositively curved manifolds of finite volume"
+  authors: "Clara Löh, Roman Sauer"
+  journal: "J. Topol."
+  year: 2009
+  url: "https://doi.org/10.1112/jtopol/jtp005"
+
+- title: "Volume and ℓ²-Betti numbers of aspherical manifolds"
+  authors: "Roman Sauer"
+  journal: "Trends in mathematics.
+Proceedings of the Courant Colloquium, University of Göttingen"
+  year: 2008
+  url: "https://univerlag.uni-goettingen.de/handle/3/isbn-978-3-940344-56-4"
+
+- title: "Homological invariants and quasi-isometry"
+  authors: "Roman Sauer"
+  journal: "Geom. Funct. Anal."
+  year: 2006
+  url: "https://doi.org/10.1007/s00039-006-0562-y"
+
+- title: "ℓ²-Betti numbers of discrete measured groupoids"
+  authors: "Roman Sauer"
+  journal: "Internat. J. Algebra Comput."
+  year: 2005
+  url: "https://doi.org/10.1142/S0218196705002748"
+
+- title: "Power series over the group ring of a free group and applications to Novikov-Shubin invariants"
+  authors: "Roman Sauer"
+  journal: "Proceedings of the School, ICTP, Trieste, on High-dimensional manifold topology"
+  year: 2003
+  url: "https://doi.org/10.1142/9789812704443_0020"

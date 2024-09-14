@@ -1,11 +1,25 @@
-- title: "Title of First Paper"
-  authors: "Author1, Author2"
-  journal: "Journal Name"
-  year: 2020
-  url: "https://linktopaper.com"
+- title: "The algebraic cheap rebuilding property"
+  authors: "Kevin Li, Clara Löh, Marco Moraschini, Roman Sauer, Matthias Uschold"
+  arxiv: "2409.05774"
+  year: 2024
+  url: "https://arxiv.org/abs/2409.05774"
 
-- title: "Title of Second Paper"
-  authors: "Author1, Author2"
-  journal: "Another Journal"
-  year: 2021
-  url: "https://linktoanotherpaper.com"
+
+- title: "Uniform waist inequalities in codimension two for manifolds with Kazhdan fundamental group"
+  authors: "Uri Bader, Roman Sauer"
+  arxiv: "2407.19783"
+  year: 2024
+  url: "https://arxiv.org/abs/2407.19783"
+
+
+- title: "On homological properties of the Schlichting completion"
+  authors: "Laura Bonn, Roman Sauer"
+  arxiv: "2406.12740"
+  year: 2024
+  url: "https://arxiv.org/abs/2406.12740"
+
+- title: "Higher Kazhdan property and unitary cohomology of arithmetic groups"
+  authors: "Uri Bader, Roman Sauer"
+  arxiv: "2308.06517"
+  year: 2023
+  url: "https://arxiv.org/abs/2308.06517"
