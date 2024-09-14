@@ -8,7 +8,7 @@ author_profile: false
 
 ## Impressum  
 
-**Anbieter der Webseite**<br>
+**Anbieter**<br>
 
 Prof. Dr. Roman Sauer <br>
 Institut für Algebra und Geometrie<br>
