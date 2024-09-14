@@ -12,7 +12,7 @@ author_profile: true
 - **{{ pub.title }}**<br>
 {{ pub.authors }}<br>
 _arxiv:{{ pub.arxiv }}_, {{ pub.year }}.
-[ArXiv]({{ pub.url }})
+[[arXiv]({{ pub.url }})]
 {% endfor %}
 
 
@@ -22,6 +22,8 @@ _arxiv:{{ pub.arxiv }}_, {{ pub.year }}.
 - **{{ pub.title }}**<br>
 {{ pub.authors }}<br>
 _{{ pub.journal }}_, {{ pub.year }}.
-[Journal]({{ pub.url }})
+[[Journal]({{ pub.url }})] [[arXiv]({{ pub.arxiv_url}})] [[MathSciNet]({{ pub.mathscinet_url }})] 
+
+
 {% endfor %}
 
