@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Roman Sauer"
 title_separator          : "-"
 name                     : &name "Roman Sauer"
 description              : &description "personal description"
