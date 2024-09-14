@@ -10,7 +10,7 @@ I am a Professor in the Institute of Algebra and Geometry at the [Karlsruhe Inst
 
 Together with [Claudio Llosa Isenrich](https://www.math.kit.edu/user/llosa/index.html) and [Elia Fioravanti](https://www.eliafioravanti.com/), I run a weekly [research seminar](https://topology.math.kit.edu/english/123.php) at KIT on topology and geometric group theory. 
 
-Since 2016, I am the speaker of the DFG-funded graduate school [RTG 2229](https://www.groups-and-spaces.kit.edu/) _Asymptotic Invariants and Limits of Groups and Spaces_, run by KIT and Heidelberg University. It aims at a systematic study of geometric spaces with regard to their asymptotic invariants and their behavior under deformations, degenerations, and taking limits.
+Since 2016, I am the speaker of the DFG-funded graduate school [RTG 2229](https://www.groups-and-spaces.kit.edu/) _Asymptotic Invariants and Limits of Groups and Spaces_, run by KIT and Heidelberg University. 
 
 I am also active in the DFG-funded Priority Program [SPP 2026](https://www.spp2026.de/) _Geometry at Infinity_. 
 
