@@ -1,10 +1,17 @@
 ---
 layout: archive
-title: "Papers"
+title: "Publications"
 permalink: /papers/
 author_profile: true
 
 ---
+## Book projects 
+
+{% for pub in site.data.books %}
+- **{{ pub.title }}**<br>
+{{ pub.authors }}, {{ pub.year }}
+[[link]({{ pub.url }})].
+{% endfor %}
 
 ## Preprints 
 
