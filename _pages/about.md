@@ -14,7 +14,7 @@ Since 2016, I am the speaker of the DFG-funded graduate school [RTG 2229](https:
 
 I am also active in the DFG-funded Priority Program [SPP 2026](https://www.spp2026.de/) _Geometry at Infinity_. 
 
-I serve on the editorial boards for [Geometry&Topology](https://msp.org/gt), [Mathematische Annalen](https://link.springer.com/journal/208), and [Manuscripta mathematica](https://link.springer.com/journal/229). 
+I currently serve on the editorial boards of [Geometry&Topology](https://msp.org/gt) and [Manuscripta mathematica](https://link.springer.com/journal/229). I have been on the editorial board of [Mathematische Annalen](https://link.springer.com/journal/208) from 2022 to 2026. 
 
 I am currently working with with Wolfgang Lück and Thomas Schick on a [book project](https://him-lueck.uni-bonn.de/data/L2.pdf) on
 L<sup>2</sup>-invariants. We are grateful for comments on the current version. 
