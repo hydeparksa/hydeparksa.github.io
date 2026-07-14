@@ -1,3 +1,10 @@
+- title: "Uniform waist inequalities in codimension two for manifolds with Kazhdan fundamental group"
+  authors: "Uri Bader, Roman Sauer"
+  journal: "to appear in Geom. Funct. Anal. (GAFA)"
+  year: 2026
+  url: ""
+  arxiv_url: "https://arxiv.org/abs/2407.19783"
+
 - title: "The algebraic cheap rebuilding property"
   authors: "Kevin Li, Clara Löh, Marco Moraschini, Roman Sauer, Matthias Uschold"
   journal: "to appear in Transactions of the American Mathematical Society."
@@ -30,7 +37,7 @@
 
 - title: "Volume and macroscopic scalar curvature" 
   authors: "Sabine Braun, Roman Sauer" 
-  journal: "Geom. Funct. Anal." 
+  journal: "Geom. Funct. Anal. (GAFA)" 
   year: 2021 
   url: "https://doi.org/10.1007/s00039-021-00588-y"
   arxiv_url: "http://arxiv.org/abs/2012.08999"
@@ -288,7 +295,7 @@ Proceedings of the Courant Colloquium, University of Göttingen"
 
 - title: "Homological invariants and quasi-isometry"
   authors: "Roman Sauer"
-  journal: "Geom. Funct. Anal."
+  journal: "Geom. Funct. Anal. (GAFA)"
   year: 2006
   url: "https://doi.org/10.1007/s00039-006-0562-y"
   arxiv_url: "https://arxiv.org/abs/math/0312129"
