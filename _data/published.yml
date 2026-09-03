@@ -1,318 +1,318 @@
-- title: "Uniform waist inequalities in codimension two for manifolds with Kazhdan fundamental group"
-  authors: "Uri Bader, Roman Sauer"
-  journal: "to appear in Geom. Funct. Anal. (GAFA)"
+---
+- title: Uniform waist inequalities in codimension two for manifolds with Kazhdan fundamental group
+  authors: Uri Bader, Roman Sauer
+  journal: Geom. Funct. Anal. (GAFA)
   year: 2026
-  url: "https://doi.org/10.1007/s00039-026-00748-y"
-  arxiv_url: "https://arxiv.org/abs/2407.19783"
-
-- title: "The algebraic cheap rebuilding property"
-  authors: "Kevin Li, Clara Löh, Marco Moraschini, Roman Sauer, Matthias Uschold"
-  journal: "to appear in Transactions of the American Mathematical Society."
+  url: https://doi.org/10.1007/s00039-026-00748-y
+  arxiv_url: https://arxiv.org/abs/2407.19783
+  zbmath_url: https://zbmath.org/902531896
+- title: The algebraic cheap rebuilding property
+  authors: Kevin Li, Clara Löh, Marco Moraschini, Roman Sauer, Matthias Uschold
+  journal: Transactions of the American Mathematical Society
   year: 2025
-  url: ""
-  arxiv_url: "https://arxiv.org/abs/2409.05774"
-
-- title: "On homological properties of the Schlichting completion"
-  authors: "Laura Bonn, Roman Sauer"
-  journal: "Mathematical Proceedings of the Cambridge Philosophical Society"
+  url: https://doi.org/10.1090/tran/9661
+  arxiv_url: https://arxiv.org/abs/2409.05774
+  zbmath_url: https://zbmath.org/902557141
+- title: On homological properties of the Schlichting completion
+  authors: Laura Bonn, Roman Sauer
+  journal: Mathematical Proceedings of the Cambridge Philosophical Society
   year: 2025
-  url: "https://doi.org/10.1017/S0305004125101357"
-  arxiv_url: "https://arxiv.org/abs/2406.12740"
-
-- title: "Stability and instability of lattices in semisimple groups" 
-  authors: "Uri Bader, Alexander Lubotzky, Roman Sauer, Shmuel Weinberger" 
-  journal: "J. Anal. Math." 
-  year: 2023 
-  url: "https://doi.org/10.1007/s11854-023-0329-5"
-  arxiv_url: "https://arxiv.org/abs/2303.08943"
-  mathscinet_url: "http://www.ams.org/mathscinet-getitem?mr=4682943"
-
-- title: "Amenable covers and integral foliated simplicial volume" 
-  authors: "Clara Löh, Marco Moraschini, Roman Sauer" 
-  journal: "New York J. Math." 
-  year: 2022 
-  url: "https://nyjm.albany.edu/j/2022/Vol28.htm"
-  arxiv_url: "http://arxiv.org/abs/2112.12223"
-  mathscinet_url: "http://www.ams.org/mathscinet-getitem?mr=4474178"
-
-- title: "Volume and macroscopic scalar curvature" 
-  authors: "Sabine Braun, Roman Sauer" 
-  journal: "Geom. Funct. Anal. (GAFA)" 
-  year: 2021 
-  url: "https://doi.org/10.1007/s00039-021-00588-y"
-  arxiv_url: "http://arxiv.org/abs/2012.08999"
-  mathscinet_url: "http://www.ams.org/mathscinet-getitem?mr=4386411"
-
-
-- title: "Profinite invariants of arithmetic groups" 
-  authors: "Holger Kammeyer, Steffen Kionke, Jean Raimbault, Roman Sauer" 
-  journal: "Forum Math. Sigma" 
-  year: 2020 
-  url: "https://doi.org/10.1017/fms.2020.43"
-  arxiv_url: "https://arxiv.org/abs/1901.01227"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=4176758"
-
-- title: "S-arithmetic spinor groups with the same finite quotients and distinct $ℓ^2$-cohomology" 
-  authors: "Holger Kammeyer, Roman Sauer" 
-  journal: "Groups Geom. Dyn." 
-  year: 2020 
-  url: "https://doi.org/10.4171/ggd/566"
-  arxiv_url: "https://arxiv.org/abs/1804.10604"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=4167024"
-
-- title: "Bounded cohomology of amenable covers via classifying spaces" 
-  authors: "Clara Löh, Roman Sauer" 
-  journal: "Enseign. Math." 
-  year: 2020 
-  url: "https://doi.org/10.4171/LEM/66-1/2-8"
-  arxiv_url: "https://arxiv.org/abs/1910.11716"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=4162286"
-
-- title: "Homology and homotopy complexity in negative curvature" 
-  authors: "Uri Bader, Tsachik Gelander, Roman Sauer" 
-  journal: "J. Eur. Math. Soc. (JEMS)" 
-  year: 2020 
-  url: "https://doi.org/10.4171/JEMS/971"
-  arxiv_url: "https://arxiv.org/abs/1612.04871"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=4118615"
-
-- title: "Lattice envelopes" 
-  authors: "Uri Bader, Alex Furman, Roman Sauer" 
-  journal: "Duke Math. J." 
-  year: 2020 
-  url: "https://doi.org/10.1215/00127094-2019-0042"
-  arxiv_url: "https://arxiv.org/abs/1711.08410"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=4057144"
-
-- title: "An adelic arithmeticity theorem for lattices in products" 
-  authors: "Uri Bader, Alex Furman, Roman Sauer" 
-  journal: "Math. Z." 
-  year: 2019 
-  url: "https://doi.org/10.1007/s00209-019-02241-9"
-  arxiv_url: "https://arxiv.org/abs/1705.08158"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=4024582"
-
-- title: "Counting maximally broken Morse trajectories on aspherical manifolds" 
-  authors: "Caterina Campagnolo, Roman Sauer" 
-  journal: "Geom. Dedicata" 
-  year: 2019 
-  url: "https://doi.org/10.1007/s10711-018-00420-2"
-  arxiv_url: "https://arxiv.org/abs/1808.08737"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=4001823"
-
-- title: "Vanishing of $ℓ^2$-Betti numbers of locally compact groups as an invariant of coarse equivalence" 
-  authors: "Roman Sauer, Michael Schrödl" 
-  journal: "Fund. Math." 
-  year: 2018 
-  url: "https://doi.org/10.4064/fm512-1-2018"
-  arxiv_url: "https://arxiv.org/abs/1702.01685"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3863061"
-
-- title: "$ℓ^2$-Betti number of discrete and non-discrete groups" 
-  authors: "Roman Sauer" 
-  journal: "London Math. Soc. Lecture Note Ser., 447 (Book chapter)" 
-  year: 2018 
-  url: "https://www.cambridge.org/de/universitypress/subjects/mathematics/algebra/new-directions-locally-compact-groups?format=PB&isbn=9781108413121"
-  arxiv_url: "https://arxiv.org/abs/1509.05234"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3793289"
-
-- title: "$ℓ^2$-Betti numbers of totally disconnected groups and their approximation by Betti numbers of lattices" 
-  authors: "Henrik Densing Petersen, Roman Sauer, Andreas Thom" 
-  journal: "J. Topol." 
-  year: 2018 
-  url: "https://doi.org/10.1112/topo.12056"
-  arxiv_url: "https://arxiv.org/abs/1612.04559"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3784232"
-
-- title: "Topological models of finite type for tree almost automorphism groups" 
-  authors: "Roman Sauer, Werner Thumann" 
-  journal: "Int. Math. Res. Not. IMRN" 
-  year: 2017 
-  url: "https://doi.org/10.1093/imrn/rnw232"
-  arxiv_url: "https://arxiv.org/abs/1510.05554"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3801421"
-
-- title: "Cantor systems and quasi-isometry of groups" 
-  authors: "Kostya Medynets, Roman Sauer, Andreas Thom" 
-  journal: "Bull. Lond. Math. Soc." 
-  year: 2017 
-  url: "https://doi.org/10.1112/blms.12059"
-  arxiv_url: "https://arxiv.org/abs/1508.07578"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3725491"
- 
-- title: "Integral foliated simplicial volume of aspherical manifolds" 
-  authors: "Roberto Frigerio, Clara Löh, Cristina Pagliantini, Roman Sauer" 
-  journal: "Israel J. Math." 
-  year: 2016 
-  url: "https://doi.org/10.1007/s11856-016-1425-3"
-  arxiv_url: "https://arxiv.org/abs/1506.05567"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3557463"
-
-- title: "Volume and homology growth of aspherical manifolds" 
-  authors: "Roman Sauer" 
-  journal: "Geom. Topol." 
-  year: 2016 
-  url: "https://doi.org/10.2140/gt.2016.20.1035"
-  arxiv_url: "https://arxiv.org/abs/1403.7319"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3493098"
-
-- title: "On the structure and arithmeticity of lattice envelopes" 
-  authors: "Uri Bader, Alex Furman, Roman Sauer" 
-  journal: "C. R. Math. Acad. Sci. Paris" 
-  year: 2015 
-  url: "https://doi.org/10.1016/j.crma.2015.02.010"
-  arxiv_url: "https://arxiv.org/abs/1411.7332"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3334993"
-
-- title: "$ℓ^2$-invisibility and a class of local similarity groups" 
-  authors: "Roman Sauer, Werner Thumann" 
-  journal: "Compos. Math." 
-  year: 2014 
-  url: "https://doi.org/10.1112/S0010437X14007313"
-  arxiv_url: "https://arxiv.org/abs/1304.6843"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3269466"
-
-- title: "On the growth of Betti numbers in p-adic analytic towers" 
-  authors: "Nicolas Bergeron, Peter Linnell, Wolfgang Lück, Roman Sauer" 
-  journal: "Groups Geom. Dyn." 
-  year: 2014 
-  url: "https://doi.org/10.4171/GGD/227"
-  arxiv_url: "https://arxiv.org/abs/1204.3298"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3231217"
-
-- title: "Weak notions of normality and vanishing up to rank in $ℓ^2$-cohomology" 
-  authors: "Uri Bader, Alex Furman, Roman Sauer" 
-  journal: "Int. Math. Res. Not. IMRN" 
-  year: 2014 
-  url: "https://doi.org/10.1093/imrn/rnt029"
-  arxiv_url: "https://arxiv.org/abs/1206.4793"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3217658"
-
-- title: "On the cohomology of weakly almost periodic group representations" 
-  authors: "Uri Bader, Christian Rosendal, Roman Sauer" 
-  journal: "J. Topol. Anal." 
-  year: 2014 
-  url: "https://doi.org/10.1142/S1793525314500125"
-  arxiv_url: "https://arxiv.org/abs/1302.1392"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3191647"
-  
-- title: "Integrable measure equivalence and rigidity of hyperbolic lattices" 
-  authors: "Uri Bader, Alex Furman, Roman Sauer" 
-  journal: "Invent. Math." 
-  year: 2013 
-  url: "https://doi.org/10.1007/s00222-012-0445-9"
-  arxiv_url: "https://arxiv.org/abs/1006.5193"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3117525"
-
-- title: "Efficient subdivision in hyperbolic groups and applications"
-  authors: "Uri Bader, Alex Furman, Roman Sauer"
-  journal: "Groups Geom. Dyn."
+  url: https://doi.org/10.1017/S0305004125101357
+  arxiv_url: https://arxiv.org/abs/2406.12740
+  zbmath_url: https://zbmath.org/8142104
+- title: Stability and instability of lattices in semisimple groups
+  authors: Uri Bader, Alexander Lubotzky, Roman Sauer, Shmuel Weinberger
+  journal: J. Anal. Math.
+  year: 2023
+  url: https://doi.org/10.1007/s11854-023-0329-5
+  arxiv_url: https://arxiv.org/abs/2303.08943
+  mathscinet_url: http://www.ams.org/mathscinet-getitem?mr=4682943
+  zbmath_url: https://zbmath.org/7793418
+- title: Amenable covers and integral foliated simplicial volume
+  authors: Clara Löh, Marco Moraschini, Roman Sauer
+  journal: New York J. Math.
+  year: 2022
+  url: https://nyjm.albany.edu/j/2022/Vol28.htm
+  arxiv_url: http://arxiv.org/abs/2112.12223
+  mathscinet_url: http://www.ams.org/mathscinet-getitem?mr=4474178
+  zbmath_url: https://zbmath.org/7577596
+- title: Volume and macroscopic scalar curvature
+  authors: Sabine Braun, Roman Sauer
+  journal: Geom. Funct. Anal. (GAFA)
+  year: 2021
+  url: https://doi.org/10.1007/s00039-021-00588-y
+  arxiv_url: http://arxiv.org/abs/2012.08999
+  mathscinet_url: http://www.ams.org/mathscinet-getitem?mr=4386411
+  zbmath_url: https://zbmath.org/7506896
+- title: Profinite invariants of arithmetic groups
+  authors: Holger Kammeyer, Steffen Kionke, Jean Raimbault, Roman Sauer
+  journal: Forum Math. Sigma
+  year: 2020
+  url: https://doi.org/10.1017/fms.2020.43
+  arxiv_url: https://arxiv.org/abs/1901.01227
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=4176758
+  zbmath_url: https://zbmath.org/7276290
+- title: S-arithmetic spinor groups with the same finite quotients and distinct $ℓ^2$-cohomology
+  authors: Holger Kammeyer, Roman Sauer
+  journal: Groups Geom. Dyn.
+  year: 2020
+  url: https://doi.org/10.4171/ggd/566
+  arxiv_url: https://arxiv.org/abs/1804.10604
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=4167024
+  zbmath_url: https://zbmath.org/7357936
+- title: Bounded cohomology of amenable covers via classifying spaces
+  authors: Clara Löh, Roman Sauer
+  journal: Enseign. Math.
+  year: 2020
+  url: https://doi.org/10.4171/LEM/66-1/2-8
+  arxiv_url: https://arxiv.org/abs/1910.11716
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=4162286
+  zbmath_url: https://zbmath.org/7358380
+- title: Homology and homotopy complexity in negative curvature
+  authors: Uri Bader, Tsachik Gelander, Roman Sauer
+  journal: J. Eur. Math. Soc. (JEMS)
+  year: 2020
+  url: https://doi.org/10.4171/JEMS/971
+  arxiv_url: https://arxiv.org/abs/1612.04871
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=4118615
+  zbmath_url: https://zbmath.org/7227741
+- title: Lattice envelopes
+  authors: Uri Bader, Alex Furman, Roman Sauer
+  journal: Duke Math. J.
+  year: 2020
+  url: https://doi.org/10.1215/00127094-2019-0042
+  arxiv_url: https://arxiv.org/abs/1711.08410
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=4057144
+  zbmath_url: https://zbmath.org/7180377
+- title: An adelic arithmeticity theorem for lattices in products
+  authors: Uri Bader, Alex Furman, Roman Sauer
+  journal: Math. Z.
+  year: 2019
+  url: https://doi.org/10.1007/s00209-019-02241-9
+  arxiv_url: https://arxiv.org/abs/1705.08158
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=4024582
+  zbmath_url: https://zbmath.org/7126322
+- title: Counting maximally broken Morse trajectories on aspherical manifolds
+  authors: Caterina Campagnolo, Roman Sauer
+  journal: Geom. Dedicata
+  year: 2019
+  url: https://doi.org/10.1007/s10711-018-00420-2
+  arxiv_url: https://arxiv.org/abs/1808.08737
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=4001823
+  zbmath_url: https://zbmath.org/7106682
+- title: Vanishing of $ℓ^2$-Betti numbers of locally compact groups as an invariant of coarse equivalence
+  authors: Roman Sauer, Michael Schrödl
+  journal: Fund. Math.
+  year: 2018
+  url: https://doi.org/10.4064/fm512-1-2018
+  arxiv_url: https://arxiv.org/abs/1702.01685
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3863061
+  zbmath_url: https://zbmath.org/6970464
+- title: "$ℓ^2$-Betti number of discrete and non-discrete groups"
+  authors: Roman Sauer
+  journal: London Math. Soc. Lecture Note Ser., 447 (Book chapter)
+  year: 2018
+  url: https://www.cambridge.org/de/universitypress/subjects/mathematics/algebra/new-directions-locally-compact-groups?format=PB&isbn=9781108413121
+  arxiv_url: https://arxiv.org/abs/1509.05234
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3793289
+  zbmath_url: https://zbmath.org/6949675
+- title: "$ℓ^2$-Betti numbers of totally disconnected groups and their approximation by Betti numbers of lattices"
+  authors: Henrik Densing Petersen, Roman Sauer, Andreas Thom
+  journal: J. Topol.
+  year: 2018
+  url: https://doi.org/10.1112/topo.12056
+  arxiv_url: https://arxiv.org/abs/1612.04559
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3784232
+  zbmath_url: https://zbmath.org/6864031
+- title: Topological models of finite type for tree almost automorphism groups
+  authors: Roman Sauer, Werner Thumann
+  journal: Int. Math. Res. Not. IMRN
+  year: 2017
+  url: https://doi.org/10.1093/imrn/rnw232
+  arxiv_url: https://arxiv.org/abs/1510.05554
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3801421
+  zbmath_url: https://zbmath.org/7004504
+- title: Cantor systems and quasi-isometry of groups
+  authors: Kostya Medynets, Roman Sauer, Andreas Thom
+  journal: Bull. Lond. Math. Soc.
+  year: 2017
+  url: https://doi.org/10.1112/blms.12059
+  arxiv_url: https://arxiv.org/abs/1508.07578
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3725491
+  zbmath_url: https://zbmath.org/6774588
+- title: Integral foliated simplicial volume of aspherical manifolds
+  authors: Roberto Frigerio, Clara Löh, Cristina Pagliantini, Roman Sauer
+  journal: Israel J. Math.
+  year: 2016
+  url: https://doi.org/10.1007/s11856-016-1425-3
+  arxiv_url: https://arxiv.org/abs/1506.05567
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3557463
+  zbmath_url: https://zbmath.org/6673869
+- title: Volume and homology growth of aspherical manifolds
+  authors: Roman Sauer
+  journal: Geom. Topol.
+  year: 2016
+  url: https://doi.org/10.2140/gt.2016.20.1035
+  arxiv_url: https://arxiv.org/abs/1403.7319
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3493098
+  zbmath_url: https://zbmath.org/6578599
+- title: On the structure and arithmeticity of lattice envelopes
+  authors: Uri Bader, Alex Furman, Roman Sauer
+  journal: C. R. Math. Acad. Sci. Paris
+  year: 2015
+  url: https://doi.org/10.1016/j.crma.2015.02.010
+  arxiv_url: https://arxiv.org/abs/1411.7332
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3334993
+  zbmath_url: https://zbmath.org/6443127
+- title: "$ℓ^2$-invisibility and a class of local similarity groups"
+  authors: Roman Sauer, Werner Thumann
+  journal: Compos. Math.
+  year: 2014
+  url: https://doi.org/10.1112/S0010437X14007313
+  arxiv_url: https://arxiv.org/abs/1304.6843
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3269466
+  zbmath_url: https://zbmath.org/6374600
+- title: On the growth of Betti numbers in p-adic analytic towers
+  authors: Nicolas Bergeron, Peter Linnell, Wolfgang Lück, Roman Sauer
+  journal: Groups Geom. Dyn.
+  year: 2014
+  url: https://doi.org/10.4171/GGD/227
+  arxiv_url: https://arxiv.org/abs/1204.3298
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3231217
+  zbmath_url: https://zbmath.org/6331641
+- title: Weak notions of normality and vanishing up to rank in $ℓ^2$-cohomology
+  authors: Uri Bader, Alex Furman, Roman Sauer
+  journal: Int. Math. Res. Not. IMRN
+  year: 2014
+  url: https://doi.org/10.1093/imrn/rnt029
+  arxiv_url: https://arxiv.org/abs/1206.4793
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3217658
+  zbmath_url: https://zbmath.org/6340369
+- title: On the cohomology of weakly almost periodic group representations
+  authors: Uri Bader, Christian Rosendal, Roman Sauer
+  journal: J. Topol. Anal.
+  year: 2014
+  url: https://doi.org/10.1142/S1793525314500125
+  arxiv_url: https://arxiv.org/abs/1302.1392
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3191647
+  zbmath_url: https://zbmath.org/6296321
+- title: Integrable measure equivalence and rigidity of hyperbolic lattices
+  authors: Uri Bader, Alex Furman, Roman Sauer
+  journal: Invent. Math.
   year: 2013
-  url: "https://doi.org/10.4171/GGD/182"
-  arxiv_url: "https://arxiv.org/abs/1003.1562"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=3054570"
-
-- title: "Spectral distribution and $ℓ^2$-isoperimetric profile of Laplace operators on groups"
-  authors: "Alexander Bendikov, Christophe Pittet, Roman Sauer"
-  journal: "Math. Ann."
+  url: https://doi.org/10.1007/s00222-012-0445-9
+  arxiv_url: https://arxiv.org/abs/1006.5193
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3117525
+  zbmath_url: https://zbmath.org/6229212
+- title: Efficient subdivision in hyperbolic groups and applications
+  authors: Uri Bader, Alex Furman, Roman Sauer
+  journal: Groups Geom. Dyn.
+  year: 2013
+  url: https://doi.org/10.4171/GGD/182
+  arxiv_url: https://arxiv.org/abs/1003.1562
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=3054570
+  zbmath_url: https://zbmath.org/6190853
+- title: Spectral distribution and $ℓ^2$-isoperimetric profile of Laplace operators on groups
+  authors: Alexander Bendikov, Christophe Pittet, Roman Sauer
+  journal: Math. Ann.
   year: 2012
-  url: "https://doi.org/10.1007/s00208-011-0724-6"
-  arxiv_url: "https://arxiv.org/abs/0901.0271"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=2957618"
-
-- title: "Euler characteristics of categories and homotopy colimits"
-  authors: "Fiore, Thomas M., Wolfgang Lück, Roman Sauer"
-  journal: "Doc. Math."
+  url: https://doi.org/10.1007/s00208-011-0724-6
+  arxiv_url: https://arxiv.org/abs/0901.0271
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=2957618
+  zbmath_url: https://zbmath.org/6084001
+- title: Euler characteristics of categories and homotopy colimits
+  authors: Fiore, Thomas M., Wolfgang Lück, Roman Sauer
+  journal: Doc. Math.
   year: 2011
-  url: "https://www.emis.de///journals/DMJDMV/vol-16/09.html"
-  arxiv_url: "https://arxiv.org/abs/1007.3868"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=2804514"
-
-- title: "Finiteness obstructions and Euler characteristics of categories"
-  authors: "Thomas M. Fiore, Wolfgang Lück, Roman Sauer"
-  journal: "Adv. Math."
+  url: https://www.emis.de///journals/DMJDMV/vol-16/09.html
+  arxiv_url: https://arxiv.org/abs/1007.3868
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=2804514
+  zbmath_url: https://zbmath.org/5884799
+- title: Finiteness obstructions and Euler characteristics of categories
+  authors: Thomas M. Fiore, Wolfgang Lück, Roman Sauer
+  journal: Adv. Math.
   year: 2011
-  url: "https://doi.org/10.1016/j.aim.2010.09.013"
-  arxiv_url: "https://arxiv.org/abs/1007.3868"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=2739781"
-
-- title: "The limit of F_p-Betti numbers of a tower of finite covers with amenable fundamental groups"
-  authors: "Peter Linnell, Wolfgang Lück, Roman Sauer"
-  journal: "Proc. Amer. Math. Soc."
+  url: https://doi.org/10.1016/j.aim.2010.09.013
+  arxiv_url: https://arxiv.org/abs/1007.3868
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=2739781
+  zbmath_url: https://zbmath.org/5848704
+- title: The limit of F_p-Betti numbers of a tower of finite covers with amenable fundamental groups
+  authors: Peter Linnell, Wolfgang Lück, Roman Sauer
+  journal: Proc. Amer. Math. Soc.
   year: 2011
-  url: "https://doi.org/10.1090/S0002-9939-2010-10689-5"
-  arxiv_url: "https://arxiv.org/abs/1003.0434"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=2736326"
-
-- title: "ℓ²-torsion, the measure-theoretic determinant conjecture, and uniform measure equivalence"
-  authors: "Wolfgang Lück, Roman Sauer, Christian Wegner"
-  journal: "J. Topol. Anal."
+  url: https://doi.org/10.1090/S0002-9939-2010-10689-5
+  arxiv_url: https://arxiv.org/abs/1003.0434
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=2736326
+  zbmath_url: https://zbmath.org/5863833
+- title: ℓ²-torsion, the measure-theoretic determinant conjecture, and uniform measure equivalence
+  authors: Wolfgang Lück, Roman Sauer, Christian Wegner
+  journal: J. Topol. Anal.
   year: 2010
-  url: "https://doi.org/10.1142/S179352531000032X"
-  arxiv_url: "https://arxiv.org/abs/0903.2925"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=2652905"
-
-- title: "A spectral sequence to compute $ℓ^2$-Betti numbers of groups and groupoids"
-  authors: "Roman Sauer, Andreas Thom"
-  journal: "J. Lond. Math. Soc. (2)"
+  url: https://doi.org/10.1142/S179352531000032X
+  arxiv_url: https://arxiv.org/abs/0903.2925
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=2652905
+  zbmath_url: https://zbmath.org/5758277
+- title: A spectral sequence to compute $ℓ^2$-Betti numbers of groups and groupoids
+  authors: Roman Sauer, Andreas Thom
+  journal: J. Lond. Math. Soc. (2)
   year: 2010
-  url: "https://doi.org/10.1112/jlms/jdq017"
-  arxiv_url: "https://arxiv.org/abs/0707.0906"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=2650795"
-
-- title: "Amenable covers, volume and $ℓ^2$-Betti numbers of aspherical manifolds"
-  authors: "Roman Sauer"
-  journal: "J. Reine Angew. Math."
+  url: https://doi.org/10.1112/jlms/jdq017
+  arxiv_url: https://arxiv.org/abs/0707.0906
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=2650795
+  zbmath_url: https://zbmath.org/5717785
+- title: Amenable covers, volume and $ℓ^2$-Betti numbers of aspherical manifolds
+  authors: Roman Sauer
+  journal: J. Reine Angew. Math.
   year: 2009
-  url: "https://doi.org/10.1515/CRELLE.2009.082"
-  arxiv_url: "https://arxiv.org/abs/math/0605627"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=2572246"
-
-- title: "Simplicial volume of Hilbert modular varieties"
-  authors: "Clara Löh, Roman Sauer"
-  journal: "Comment. Math. Helv."
+  url: https://doi.org/10.1515/CRELLE.2009.082
+  arxiv_url: https://arxiv.org/abs/math/0605627
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=2572246
+  zbmath_url: https://zbmath.org/5667728
+- title: Simplicial volume of Hilbert modular varieties
+  authors: Clara Löh, Roman Sauer
+  journal: Comment. Math. Helv.
   year: 2009
-  url: "https://doi.org/10.4171/CMH/169"
-  arxiv_url: "https://arxiv.org/abs/0706.3904"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=2507250"
- 
-- title: "Degree theorems and Lipschitz simplicial volume for nonpositively curved manifolds of finite volume"
-  authors: "Clara Löh, Roman Sauer"
-  journal: "J. Topol."
+  url: https://doi.org/10.4171/CMH/169
+  arxiv_url: https://arxiv.org/abs/0706.3904
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=2507250
+  zbmath_url: https://zbmath.org/5569656
+- title: Degree theorems and Lipschitz simplicial volume for nonpositively curved manifolds of finite volume
+  authors: Clara Löh, Roman Sauer
+  journal: J. Topol.
   year: 2009
-  url: "https://doi.org/10.1112/jtopol/jtp005"
-  arxiv_url: "https://arxiv.org/abs/0710.1635"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=2499443"
-
-- title: "Volume and $ℓ^2$-Betti numbers of aspherical manifolds"
-  authors: "Roman Sauer"
-  journal: "Trends in mathematics.
-Proceedings of the Courant Colloquium, University of Göttingen"
+  url: https://doi.org/10.1112/jtopol/jtp005
+  arxiv_url: https://arxiv.org/abs/0710.1635
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=2499443
+  zbmath_url: https://zbmath.org/5549246
+- title: Volume and $ℓ^2$-Betti numbers of aspherical manifolds
+  authors: Roman Sauer
+  journal: Trends in mathematics. Proceedings of the Courant Colloquium, University of Göttingen
   year: 2008
-  url: "https://univerlag.uni-goettingen.de/handle/3/isbn-978-3-940344-56-4"
-  arxiv_url: 
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=2906042"
-
-- title: "Homological invariants and quasi-isometry"
-  authors: "Roman Sauer"
-  journal: "Geom. Funct. Anal. (GAFA)"
+  url: https://univerlag.uni-goettingen.de/handle/3/isbn-978-3-940344-56-4
+  arxiv_url:
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=2906042
+  zbmath_url: https://zbmath.org/6077616
+- title: Homological invariants and quasi-isometry
+  authors: Roman Sauer
+  journal: Geom. Funct. Anal. (GAFA)
   year: 2006
-  url: "https://doi.org/10.1007/s00039-006-0562-y"
-  arxiv_url: "https://arxiv.org/abs/math/0312129"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=2231471"
-
+  url: https://doi.org/10.1007/s00039-006-0562-y
+  arxiv_url: https://arxiv.org/abs/math/0312129
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=2231471
+  zbmath_url: https://zbmath.org/5045673
 - title: "$ℓ^2$-Betti numbers of discrete measured groupoids"
-  authors: "Roman Sauer"
-  journal: "Internat. J. Algebra Comput."
+  authors: Roman Sauer
+  journal: Internat. J. Algebra Comput.
   year: 2005
-  url: "https://doi.org/10.1142/S0218196705002748"
-  arxiv_url: "https://arxiv.org/abs/math/0312411"
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=2197826"
-
-- title: "Power series over the group ring of a free group and applications to Novikov-Shubin invariants"
-  authors: "Roman Sauer"
-  journal: "Proceedings of the School, ICTP, Trieste, on High-dimensional manifold topology"
+  url: https://doi.org/10.1142/S0218196705002748
+  arxiv_url: https://arxiv.org/abs/math/0312411
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=2197826
+  zbmath_url: https://zbmath.org/5017979
+- title: Power series over the group ring of a free group and applications to Novikov-Shubin invariants
+  authors: Roman Sauer
+  journal: Proceedings of the School, ICTP, Trieste, on High-dimensional manifold topology
   year: 2003
-  url: "https://doi.org/10.1142/9789812704443_0020"
-  arxiv_url: 
-  mathscinet_url: "https://mathscinet.ams.org/mathscinet/article?mr=2048733"
+  url: https://doi.org/10.1142/9789812704443_0020
+  arxiv_url:
+  mathscinet_url: https://mathscinet.ams.org/mathscinet/article?mr=2048733
+  zbmath_url: https://zbmath.org/2065587

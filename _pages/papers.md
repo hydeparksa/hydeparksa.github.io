@@ -29,8 +29,7 @@ _arxiv:{{ pub.arxiv }}_, {{ pub.year }}.
 - **{{ pub.title }}**<br>
 {{ pub.authors }}<br>
 _{{ pub.journal }}_, {{ pub.year }}.
-[[Journal]({{ pub.url }})] [[arXiv]({{ pub.arxiv_url}})] [[MathSciNet]({{ pub.mathscinet_url }})] 
+[[Journal]({{ pub.url }})] [[arXiv]({{ pub.arxiv_url}})] [[MathSciNet]({{ pub.mathscinet_url }})] [[zbMATH]({{ pub.zbmath_url }})]
 
 
 {% endfor %}
-
