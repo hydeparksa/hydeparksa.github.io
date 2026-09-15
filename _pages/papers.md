@@ -11,6 +11,7 @@ author_profile: true
 - **{{ pub.title }}**<br>
 {{ pub.authors }}, {{ pub.year }}
 [[link]({{ pub.url }})].
+{% include publication-comment.html pub=pub %}
 {% endfor %}
 
 ## Preprints 
@@ -20,6 +21,7 @@ author_profile: true
 {{ pub.authors }}<br>
 _arxiv:{{ pub.arxiv }}_, {{ pub.year }}.
 [[arXiv]({{ pub.url }})]
+{% include publication-comment.html pub=pub %}
 {% endfor %}
 
 
@@ -30,6 +32,7 @@ _arxiv:{{ pub.arxiv }}_, {{ pub.year }}.
 {{ pub.authors }}<br>
 _{{ pub.journal }}_, {{ pub.year }}.
 [[Journal]({{ pub.url }})] [[arXiv]({{ pub.arxiv_url}})] [[MathSciNet]({{ pub.mathscinet_url }})] [[zbMATH]({{ pub.zbmath_url }})]
+{% include publication-comment.html pub=pub %}
 
 
 {% endfor %}

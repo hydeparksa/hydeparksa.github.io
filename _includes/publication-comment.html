@@ -1,0 +1,1 @@
+{% if include.pub.comment and include.pub.comment != empty %}<br><small class="publication-comment">{{ include.pub.comment | markdownify | remove: '<p>' | remove: '</p>' | strip }}</small>{% endif %}

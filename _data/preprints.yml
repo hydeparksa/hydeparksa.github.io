@@ -15,19 +15,15 @@
 
 
 
-- title: "An acylindrically hyperbolic group of non-uniform exponential growth"
-  authors: "Roman Sauer, Eduard Schesler"
-  arxiv: "2606.15945"
-  year: 2026
-  url: "https://arxiv.org/abs/2606.15945"
-
-
-
-- title: "A finitely presented group of non-uniform exponential growth"
+- title: "Non-uniform exponential growth and the decay of growth rates in growing dimensions"
   authors: "Roman Sauer, Eduard Schesler"
   arxiv: "2605.30163"
   year: 2026
   url: "https://arxiv.org/abs/2605.30163"
+  comment: >-
+    This preprint merges, extends and supersedes
+    [arXiv:2605.30163v1](https://arxiv.org/abs/2605.30163v1)
+    and [arXiv:2606.15945v1](https://arxiv.org/abs/2606.15945v1).
 
 
 
@@ -62,3 +58,10 @@
   arxiv: "2308.06517"
   year: 2023
   url: "https://arxiv.org/abs/2308.06517"
+  comment: >-
+    My course at the IHES Summer School:
+    [Lecture 1](https://www.youtube.com/watch?v=NHRufGMmIBU&list=PLx5f8IelFRgEcidHuQD3Ozy8fadKDSh11),
+    [Lecture 2](https://www.youtube.com/watch?v=12sgIyb8sUA&list=PLx5f8IelFRgEcidHuQD3Ozy8fadKDSh11),
+    [Lecture 3](https://www.youtube.com/watch?v=acxA4FO9Mx0&list=PLx5f8IelFRgEcidHuQD3Ozy8fadKDSh11),
+    [Lecture 4](https://www.youtube.com/watch?v=j_Ww1ZhKUZQ&list=PLx5f8IelFRgEcidHuQD3Ozy8fadKDSh11),
+    [Lecture 5](https://www.youtube.com/watch?v=nzsIk5lFUTY&list=PLx5f8IelFRgEcidHuQD3Ozy8fadKDSh11).
